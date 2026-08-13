@@ -8,3 +8,5 @@ This repository contains my DevOps and Kubernetes homelab learning.
 - labs/
 - scripts/
 - troubleshooting/
+
+Learning Git step by step.
